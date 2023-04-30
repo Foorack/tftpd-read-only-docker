@@ -1,2 +1,4 @@
 # tftpd-tx-only
-TFTPD transmit-only implemenation using no dynamic ports to work in Docker Swarm
+
+`tftpd-tx-only` is a TFTP transmit-only server implemenation using no dynamic ports, in order to work in Docker Swarm.
+

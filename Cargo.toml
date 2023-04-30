@@ -1,0 +1,13 @@
+[package]
+name = "tftpd-tx-only"
+version = "0.1.0"
+authors = ["Max Faxälv <max@foorack.com>"]
+edition = "2021"
+description = "`tftpd-tx-only` is a TFTP transmit-only server implemenation using no dynamic ports, in order to work in Docker Swarm."
+repository = "https://github.com/foorack/tftpd-tx-only"
+license = "MIT"
+keywords = ["tftp", "tftpd", "docker", "swarm"]
+categories = ["command-line-utilities"]
+
+[dependencies]
+#tftpd = "0.2.1"
